@@ -265,6 +265,33 @@ logo::before {
     text-decoration: none;
 }
 
+.home-content .projects {
+    font-size: 28px;
+    font-weight: 700;
+    width: 100%;
+    color: #ededed;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-content .projects p {
+    font-size: 28px;
+    font-weight: 700;
+    width: 100%;
+    color: #ededed;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-content .projects a {
+    font-size: 28px;
+    font-weight: 700;
+    width: 100%;
+    color: #ededed;
+    justify-content: center;
+    align-items: center;
+}
+
 @keyframes showRight {
     100% {
         width: 0;
